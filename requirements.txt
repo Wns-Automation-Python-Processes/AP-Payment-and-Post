@@ -1,0 +1,10 @@
+selenium
+pandas
+openpyxl
+numpy
+webdriver-manager
+pywinauto
+pyautogui
+comtypes
+pywin32
+Pillow
